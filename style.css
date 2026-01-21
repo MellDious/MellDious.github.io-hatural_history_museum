@@ -196,6 +196,7 @@ body footer div div div {
   align-items: center;
 }
 body footer div div div img {
+  width: 100px;
   height: 100px;
 }
 body footer div div div p {
